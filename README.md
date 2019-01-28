@@ -1,1 +1,2 @@
-# CS372
+# CS372 HW 1 Merge Conflict
+
